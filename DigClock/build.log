@@ -1,0 +1,22 @@
+Logfile initialized
+[INFO] logfile = /Users/NathanHeffer/Desktop/DigClock/build.log
+[DEBUG] /Users/NathanHeffer/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/builder.py simulator DigClock /Users/NathanHeffer/Desktop/Titanium Studio/coding/android-sdk-macosx /Users/NathanHeffer/Desktop/DigClock com.DigClock 13 WVGA854 
+[INFO] Building DigClock for Android ... one moment
+[INFO] Titanium SDK version: 2.1.2 (08/24/12 14:46 ed7f777)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.020473 seconds on emulator to get ready
+[DEBUG] com.DigClock installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/NathanHeffer/Desktop/DigClock/Resources/main_windows/main.js => /Users/NathanHeffer/Desktop/DigClock/build/android/bin/assets/Resources/main_windows/main.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... DigClock
+[INFO] Launching application ... DigClock
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.DigClock/.DigclockActivity }
+Warning: Activity not started, its current task has been brought to the front
+
